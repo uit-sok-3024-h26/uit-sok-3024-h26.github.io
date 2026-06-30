@@ -6,7 +6,7 @@
 |Arbeidskrav 1 (Artikkel gjennomgang og tema for master)  | 2026.09.18 kl 23:59 | 2026:09.25    | 
 |Arbeidskrav 2  (Peer-review)                            | 2026.10.15 kl 23:59 | 2026.10.16    |
 |Arbeidskrav 3 (Første utkast prosjektskisse - forskningsspørsmål og motivering)   | 2026.10.14 kl 17:00 |                                 |
-|Arbeidskrav 4  (Presentasjon av prosj                    | 2026.11.25 kl 23.59| 2026.11.26 |
+|Arbeidskrav 4  (Presentasjon av prosjektskisse)                    | 2026.11.25 kl 23.59| 2026.11.26 |
 |Mappeoppgave (Prosjektskisse)                        |                   |                                   |
 
 
@@ -43,8 +43,7 @@ Formålet med arbeidskrav 2 er at dere skal få trening i å kritisk evaluere vi
 **Arbeidskrav 2 kan gjennomføres i grupper om 1 - 3 personer**
 
 I den skriftlige delen skal dere:
-- Velge ut to masteroppgaver, **én fra "[batch1](https://github.com/uit-sok-3024-h25/uit-sok-3024-h25.github.io/tree/main/mstheses/batch1)" og én fra "[batch2](https://github.com/uit-sok-3024-h25/uit-sok-3024-h25.github.io/tree/main/mstheses/batch2)"**. Vi anbefaler at dere velger oppgaver på lignende tema da dette gir dere mulighet å sammenligne oppgavene med hverandre. 
-- Lese de to masteroppgavene
+- Lese to masteroppgaver (tildeles av lærer)
 - Evaluere masteroppgavene. Dere finner støtte til hvordan dere gjør dette [her](https://uit-sok-3024-h25.github.io/peerreview.html)
 
 Den muntlige delen av arbeidskravet består i å diskutere styrker og svakheter i masteroppgavene på et seminar.
@@ -59,7 +58,7 @@ Formålet med arbeidskrav 3 er at dere skal komme igang med prosjektskissen, og 
 
 Første utkast av prosjektskissen har i stort det samme inneholdet som siste utkast. Formålet til å levere inn et første utkast er at dere får en sjanse å utbedre inneholdet til siste utkast. **Vi anbefaler sterkt at dere starter å jobbe med arbeidskrav 3 i starten av semestret og jobber fortløpende med arbeidskravet gjennom semestret.** 
 
-Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://uit-sok-3024-h25.github.io/prosjektskisse.html)
+Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://uit-sok-3024-h26.github.io/prosjektskisse.html)
 
 Disposisjonen til prosjektskissen er ikke "hugget i stein". Dere kan velge å omstrukturere litt dersom dere ønsker dette. Alle deler i malen skal likevel være med i prosjektskissen. 
 
@@ -94,7 +93,7 @@ For å få karakter på mappeoppgaven må alle dokumenter leveres inn.
 
 ### Oppgave-dokumentet sitt innhold
 
-Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://uit-sok-3024-h25.github.io/prosjektskisse.html). 
+Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://uit-sok-3024-h26.github.io/prosjektskisse.html). 
 
 Disposisjonen til prosjektskissen er ikke "hugget i stein". Dere kan velge å omstrukturere litt dersom dere ønsker dette. Alle deler i malen skal likevel være med i prosjektskissen. 
 
