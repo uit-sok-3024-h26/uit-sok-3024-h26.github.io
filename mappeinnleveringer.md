@@ -44,7 +44,7 @@ Formålet med arbeidskrav 2 er at dere skal få trening i å kritisk evaluere vi
 
 I den skriftlige delen skal dere:
 - Lese to masteroppgaver (tildeles av lærer)
-- Evaluere masteroppgavene. Dere finner støtte til hvordan dere gjør dette [her](https://uit-sok-3024-h25.github.io/peerreview.html)
+- Evaluere masteroppgavene. Dere finner støtte til hvordan dere gjør dette [her](https://uit-sok-3024-h26.github.io/peerreview.html)
 
 Den muntlige delen av arbeidskravet består i å diskutere styrker og svakheter i masteroppgavene på et seminar.
 
