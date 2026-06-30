@@ -23,7 +23,7 @@ Formålet med arbeidskrav 1 er at dere skal komme igang med å velge et tema og 
 
 I den skriftlige delen av oppgaven skal dere:
 - Tenke ut et tema/problem som er relevant å studere fra et samfunnsøkonomisk perspektiv.
--  Finne 3 vitenskapelige artikkler på dette temaet. Artikklene skal være inneholde samfunnsøkonomisk forskning og være publisert peer-reviewed i vitenskapelige journaler.
+-  Finne 3 vitenskapelige artikler på dette temaet. Artiklene skal inneholde samfunnsøkonomisk forskning og være publisert peer-reviewed i vitenskapelige journaler.
 - Beskrive temaet/problemet, og motivere hvorfor dette er viktig å studere fra et samfunnsøkonomisk perspektiv.
 - Beskrive hvordan studiene i de tre artiklene har analysert dette temaet/problemet, og hva de fant ut. 
 
@@ -33,7 +33,7 @@ På seminaret skal dere presentere innholdet i den skriftlige innleveringen munt
 - Beskrivelse av tema/problem
 - Motivering: hvorfor er temaet/problemet viktig å studere fra et samfunnsøkonomisk perspektiv
 - Oppsummering av de forskningsspørsmål som de tre artiklene har prøvd å besvare, hvilken data og metode de bruker for å besvare spørsmålene, og hva de fant ut. 
-- Lenker (doi) til artikkelene (i referanselisten)
+- Lenker (doi) til artiklene (i referanselisten)
 
 For å få arbeidskravet godkjent må du levere inn alle deler i innleveringen og delta aktivt på seminaret. 
 
@@ -56,7 +56,7 @@ Formålet med arbeidskrav 3 er at dere skal komme igang med prosjektskissen, og 
 
 **Arbeidskravet kan gjennomføres indivduelt eller i grupper om 2 personer, avhengig av hvis dere planlegger å skriver masteroppgaven alene eller sammen med noen. Maks gruppestørrelse er 2 personer.** Gruppestørrelse blir tatt hensyn til ved godkjenning av arbeidskravet. 
 
-Første utkast av prosjektskissen har i stort det samme inneholdet som siste utkast. Formålet til å levere inn et første utkast er at dere får en sjanse å utbedre inneholdet til siste utkast. **Vi anbefaler sterkt at dere starter å jobbe med arbeidskrav 3 i starten av semestret og jobber fortløpende med arbeidskravet gjennom semestret.** 
+Første utkast av prosjektskissen har i stort det samme innholdet som siste utkast. Formålet til å levere inn et første utkast er at dere får en sjanse å utbedre innholdet til siste utkast. **Vi anbefaler sterkt at dere starter å jobbe med arbeidskrav 3 i starten av semestret og jobber fortløpende med arbeidskravet gjennom semestret.** 
 
 Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://uit-sok-3024-h26.github.io/prosjektskisse.html)
 
