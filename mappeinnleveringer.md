@@ -62,7 +62,12 @@ Dere finner en mal til hvordan prosjektskissen kan struktureres [her](https://ui
 
 Disposisjonen til prosjektskissen er ikke "hugget i stein". Dere kan velge å omstrukturere litt dersom dere ønsker dette. Alle deler i malen skal likevel være med i prosjektskissen. 
 
-**Arbeidskrav 3 SKAL inkludere en oppsummering av minst 3 vitenskapelige artikler (publiserte peer-reviewed i en vitenskapelig journal) som er relevante for temaet og forskningsspørsmålet i prosjektskissen.** Oppsummeringen skal være på  200 - 400 ord og beskrive hva forfatterne studerte, noe om utvalget og metode, og hva funnene i studien var. Studiene skal refereres ved bruk av [APA](https://uit.no/ub/skriveogreferere/referansestiler/apa7/samling?p_document_id=723998#collapseSub724326). 
+**Arbeidskrav 3 SKAL inkludere:**
+* Et tentativt forskningsspørsmål
+* En motivering til hvorfor dette spørsmålet er viktig å studere fra et samfunnsøkonomisk perspektiv
+* En kobling opp imot økonomisk teori
+* En oppsummering av minst 3 vitenskapelige artikler (publiserte peer-reviewed i en vitenskapelig journal) som er relevante for temaet og forskningsspørsmålet i prosjektskissen. Oppsummeringen skal være på  200 - 400 ord og beskrive hva forfatterne studerte, noe om utvalget og metode, og hva funnene i studien var. Studiene skal refereres ved bruk av [APA](https://uit.no/ub/skriveogreferere/referansestiler/apa7/samling?p_document_id=723998#collapseSub724326).
+* Diskusjon av data som trengs for å besvare forskningsspørsmålet 
 
 ### Arbeidskrav 4
 Formålet med arbeidskrav 4 er at dere skal få trening i å formidle vitenskapelig forskning, og få mulighet til å få feedback fra andre på deres prosjekt. Arbeidskravet har en skriftlig og en muntlig del. 
