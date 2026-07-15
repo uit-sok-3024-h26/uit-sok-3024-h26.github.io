@@ -5,8 +5,8 @@
 |-----------------------------------------------------|-------------------| ----------------------------------|
 |Arbeidskrav 1 (Artikkel gjennomgang og tema for master)  | 2026.09.18 kl 23:59 | 2026.09.25    | 
 |Arbeidskrav 2  (Peer-review)                            | 2026.10.15 kl 23:59 | 2026.10.16    |
-|Arbeidskrav 3 (Første utkast prosjektskisse - forskningsspørsmål og motivering)   | 2026.11.06 kl 17:00 |                                 |
-|Arbeidskrav 4  (Presentasjon av prosjektskisse)                    | 2026.11.25 kl 23.59| 2026.11.26 |
+|Arbeidskrav 3 (Første utkast prosjektskisse - forskningsspørsmål, motivering, og data)   | 2026.11.05 kl 17:00 |                                 |
+|Arbeidskrav 4  (Presentasjon av prosjektskisse)                    | 2026.11.12 kl 23.59| 2026.11.13 |
 |Mappeoppgave (Prosjektskisse)                        |                   |                                   |
 
 
