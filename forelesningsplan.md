@@ -17,12 +17,12 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |41| 08. Okt.        |  10:15 - 12:00 | Forelesning | Struktur vitenskapelig artikel  | AM |
 |42| 15. Okt.        |  10:15 - 12:00 |                 | FJERN| AM|
 |42| 15. Okt.        |  12:15 - 14:00 |Seminar |Peer review (arbeidskrav)| AM |
-|43| 19. Okt.         |  12:15 - 14:00 |Seminar      | Forskningsspørsmål og data | AM |
+|43| 19. Okt.         |  12:15 - 14:00 |Seminar      | FJERN| AM |
 |44| 29. Okt.         |  10:15 - 12:00 |Forelesning      |Formidling  | AM eller AH |
-|45| 02. Nov.         |  10:15 - 14:00 |Seminar     | Presentasjon prosjektskisse (arbeidskrav) | AM og EH |
-|45| 06. Nov.         |  10:15 - 14:00 |Seminar     | Presentasjon prosjektskisse (arbeidskrav)  | AM og EH |
+|45| 02. Nov.         |  10:15 - 14:00 |Seminar     | FJERN | |
+|45| 06. Nov.         |  10:15 - 14:00 |Seminar     | Forskningsspørsmål og data (arbeidskrav)  | AM |
 |46| 12. Nov.         |  10:15 - 12:00 |            | FJERN    |  |
-|46| 13. Nov.         |  08:15 - 12:00 |            | FJERN   | |
+|46| 13. Nov.         |  08:15 - 12:00 |            | Presentasjon prosjektskisse (arbeidskrav)  | AM og EH|
 |48| 27. Nov.         |  08:15 - 12:00 |             |FJERN   | |
 
 
