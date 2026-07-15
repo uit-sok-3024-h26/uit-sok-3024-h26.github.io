@@ -11,7 +11,7 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |37| | ||||||
 |38| 17. Sept.        |  10:15 - 12:00 |Forelesning        |Forskningsprosessen| AM |
 |39| 24. Sept.        |  09:15 - 12:00 |Seminar            |Tema og bakgrunn (arbeidskrav)| AM |
-|40| 28. Sept.        |  10:15 - 12:00 |Forelesing         | AI|                            AM |
+|40| 28. Sept.        |  10:15 - 12:00 |Forelesing         | AI|                            ML |
 |40| 01. Okt.        |  10:15 - 16:00 |                    | $${\color{red}\textsf{FJERN}}$$| |
 |40| 02. Okt.        |  10:15 - 12:00 |Forelesning   | Datakilder og personvern  | AM |
 |41| 08. Okt.        |  10:15 - 12:00 | Forelesning | Struktur vitenskapelig artikel  | AM |
