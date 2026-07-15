@@ -58,11 +58,13 @@ Seksjonen skal vise på hvilken måte og i hvilken grad prosjektet bidrar med ny
   
 ## Metode
 Formålet med metode-seksjonen er å hjelpe leseren forstå hvordan forskningsspørsmålene blir besvarte (og hypotesene blir testet) i prosjektet. Leseren skal videre ha tilstrekkelig informasjon for å kunne evaluere i hvilken grad metoden *klarer* å teste hypotesene. 
+
+Den økonometriske strategien avhenger karaktertrekkene til både forskningsspørsmålet og datamaterialet. Dere vil lære om flere avanserte økonometriske metoder i løpet av masterutdanningen, og vi forventer oss ikke at dere har kunnskap om eksakt metode allerede nå. Det er likevel en god øvelse å fundere over hvilken type data som trengs for å kunne besvare forskningsspørsmålet/teste hypotesene og hvordan denne data skal brukes for å besvare forskningsspørsmålet, f.eks. Hva er avhengig variabel, forklarende variabler og kontrollvariabler? Er det tilstrekkelig å bruke aggregerte data (BNP, arbeidsledighetsrate) tilstrekkelige eller trengs data på individnivå? Hvilken populasjon er relevant å studere (hvem inngår i utvalget)? Må vi følge individene over tid eller er det tilstrekkelig å studere et tverrsnitt? 
   
 ### Data
-* Beskriv datakilder som vil benyttes til å besvare forskningspørsmålet/teste hypotesene.
+* Beskriv mulige datakilder som kan benyttes til å besvare forskningspørsmålet/teste hypotesene.
     * Beskriv karakterstrekk ved disse kildene (f.eks utvalg, innsamlingsmetode)
-* NB: Dersom dere planlegger å samle inn data selve må dere beskrive metoden for dette her (f.eks rekrutteringsmetode, design på spørreskjema eller eksperiment)
+    * Beskriv tilgjengeligheten til dette datamaterialet. NB: Dersom dere planlegger å samle inn data selve må dere beskrive metoden for dette her (f.eks rekrutteringsmetode, design på spørreskjema eller eksperiment)
 * Beskriv variabler dere planlegger å bruke i den empiriske analysen
    * Avhengig variabel
    * Forklarende variabler knyttet direkte til hypotesene
@@ -70,9 +72,7 @@ Formålet med metode-seksjonen er å hjelpe leseren forstå hvordan forskningssp
   
 ### Økonometrisk strategi
 * Presenter en ligning som inkluderer de variabler som ble beskrevet i data-avsnittet. Husk å forklare alle deler i ligningen i teksten. 
-* Beskriv de hensyn som må tas for å kunne teste hypotesene og eventuelle utfordringer gitt det datamaterial som skal brukes i analysen.
-* Beskriv den økonometriske metode som blir brukt til estimere modellen. 
-* Beskriv hvordan dere (den økonometriske strategien som dere bruker) håndterer eventuelle utfordringer.
+* Beskriv de hensyn som må tas for å kunne teste hypotesene og eventuelle utfordringer gitt det datamaterial som vurderes.
 
 ## Prosjektplan
 Denne seksjonen skal vise at prosjektet er gjennomførbart tidmessig, gitt de ressurser som er tilgjengelige. Seksjonen skal innholde en beskrivelse for hvordan dere planlegger å gjennomføre prosjektet.
