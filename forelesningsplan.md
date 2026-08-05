@@ -18,7 +18,9 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |43| 19. Okt          | 12:15-14:00| Seminar| Peer-Review (arbeidskrav)  | AM |
 |44| 29. Okt.         |  10:15 - 12:00 |Seminar      |Forskningsspørsmål og data | AM |
 |45| 2. Nov. alt 6.nov       |  10:15 - 12:15 |Forelesning |Formidling| AH eller AM |
-|46| 27. Nov.         |  08:15 - 12:00 |Seminar     | Presentasjon prosjekt (arbeidskrav)  | AM og EH|
+|46| | ||||||
+|47| | ||||||
+|48| 27. Nov.         |  08:15 - 12:00 |Seminar     | Presentasjon prosjekt (arbeidskrav)  | AM og EH|
 
 
 
