@@ -3,7 +3,7 @@
 
 | Type oppgave                                        | Innleveringsfrist | Muntlig presentasjon / deltakelse | 
 |-----------------------------------------------------|-------------------| ----------------------------------|
-|Arbeidskrav 1 (Artikkel gjennomgang og tema for master)  | 2026.10.01 kl 17:00 | 2026.10.02    | 
+|Arbeidskrav 1 (Artikkel gjennomgang og tema for master)  | 2026.10.01 kl 23:59 | 2026.10.02    | 
 |Arbeidskrav 2  (Peer-review)                            | 2026.10.18 kl 23:59 | 2026.10.19    |
 |Arbeidskrav 3 (Første utkast prosjektskisse)   | 2026.11.13 kl 17:00 |  |
 |Arbeidskrav 4  (Presentasjon av prosjektskisse)                    | 2026.11.26 kl 23.59| 2026.11.27 |
