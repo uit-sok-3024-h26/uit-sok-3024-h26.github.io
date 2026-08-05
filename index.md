@@ -11,7 +11,7 @@ Forelesnings- og seminarplanene inneholder informasjon om tidspunkt, tema, fagl√
 Innleveringsplanen gir oppgaver, frister og ressurser i forbindelse med obligatoriske innleveringer.  
 
 - [Forelesnings- og seminarplan](forelesningsplan.html){:target="blank"}
-- [Forelesningsnotater og seminaroppgaver](forelesninger.html){:target="blank"}
+- [Forelesningsnotater og st√∏tteressurser](forelesninger.html){:target="blank"}
 - [Mappeoppgaver, arbeidskrav, og innleveringsplan](mappeinnleveringer.html){:target="blank"}
 - [Timeplan](https://tp.educloud.no/uit/app/schedule?semester=26h&scheduleType=course&filterOpen=true&summary=true&pastWeeks=false&tab=calendar&course=SOK-3024%C2%A41)
 
