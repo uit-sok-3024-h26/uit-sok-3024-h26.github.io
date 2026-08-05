@@ -10,10 +10,10 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |36| 31. Aug.        |  10:15 - 12:00 |Forelesning        |Forskningsprosessen | AM |
 |37| | ||||||
 |38| 17. Sept.        |  10:15 - 12:00 |Forelesning        |Forskningsprosessen| AM |
-|39| 24. Sept.        |  09:15 - 12:00 |Seminar            |Tema og bakgrunn (arbeidskrav)| AM |
+|39| 24. Sept.        |  09:15 - 12:00 |Forelesning          |Prosjektmuligheter: Ishavskraft og Remiks| AM, JW, ØØ |
 |40| 28. Sept.        |  10:15 - 12:00 |Forelesing         | AI|                            ML |
-|40| 01. Okt.        |  10:15 - 16:00 |                    | $${\color{red}\textsf{FJERN}}$$| |
-|40| 02. Okt.        |  10:15 - 12:00 |Forelesning   | Datakilder og personvern  | AM |
+|40| 01. Okt.        |  10:15 - 16:00 | Forelesning        | Datakilder og personvern| AM|
+|40| 02. Okt.        |  10:15 - 12:00 |Seminar  | Tema og bakgrunn (arbeidskrav)  | AM |
 |41| 08. Okt.        |  10:15 - 12:00 | Forelesning | Struktur vitenskapelig artikel  | AM |
 |42| 15. Okt.        |  10:15 - 12:00 |                 | $${\color{red}\textsf{FJERN}}$$| AM|
 |42| 15. Okt.        |  12:15 - 14:00 |Seminar |Peer review (arbeidskrav)| AM |
@@ -33,4 +33,8 @@ EH = Eirik Eriksen Heen
 ML = Marko Lukic
 
 AH = Audun Hetland
+
+JW = Julia Wagner
+
+ØØ = Øivind Østbo
 
