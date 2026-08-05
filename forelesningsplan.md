@@ -15,6 +15,7 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |40| 01. Okt.        |  10:15 - 16:00 | Forelesning        | Datakilder og personvern| AM|
 |41| 08. Okt.        |  10:15 - 12:00 | Forelesning | Struktur vitenskapelig artikel  | AM |
 |42| 15. Okt.        |  12:15 - 14:00 |Seminar |Peer review (arbeidskrav)| AM |
+|43| | ||||||
 |44| 29. Okt.         |  10:15 - 12:00 |Forelesning      |Formidling  | AM eller AH |
 |45| 06. Nov.         |  10:15 - 14:00 |Seminar     | Forskningsspørsmål og data (arbeidskrav)  | AM |
 |46| 13. Nov.         |  08:15 - 12:00 |Seminar     | Presentasjon prosjekt (arbeidskrav)  | AM og EH|
