@@ -2,7 +2,10 @@
 # Forelesningsnotater og ressurser
 På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker kan være nyttige. Siden oppdateres fortløpende.
 
-###  Introduksjon til kurset
+## F1  Introduksjon til kurset
+
+### Forelesningsnotater
+* [Introduksjon og informasjon om kurset](https://uit-sok-3024-h26.github.io/assets/F1_sok_3024_introtilkurset_h26.pdf)
 
 ### Støtteressurser
 #### Grad Coach
