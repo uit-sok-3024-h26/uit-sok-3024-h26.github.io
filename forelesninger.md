@@ -4,7 +4,7 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 
 ## Forelesningsnotater
 * [Introduksjon og informasjon om kurset](https://uit-sok-3024-h26.github.io/assets/img/F1_sok_3024_introtilkurset_h26.pdf)
-* [Introduksjon til faget](https://uit-sok-3024-h26.github.io/assets/img/F2_introtilfaget_h26.pdf)
+* [Introduksjon til faget](https://uit-sok-3024-h26.github.io/assets/F2_introtilfaget_h26.pdf)
 
 ## Støtteressurser
 #### Grad Coach
