@@ -6,6 +6,7 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
 * [Introduksjon og informasjon om kurset](https://uit-sok-3024-h26.github.io/assets/img/F1_sok_3024_introtilkurset_h26.pdf)
 * [Introduksjon til faget](https://uit-sok-3024-h26.github.io/assets/F2_introtilfaget_h26.pdf)
 * [Forskningsprosessen - Del 1: fra tema til prosjektskisse](https://uit-sok-3024-h26.github.io/assets/F3_sok_3024_forskninsgprosessen_del_1_h26.pdf)
+   * [Et veikart over forskningsprosessen](https://uit-sok-3024-h26.github.io/assets/F3_forskninsgprosessen_veikart.pdf)
 
 ## Støtteressurser
 #### Grad Coach
