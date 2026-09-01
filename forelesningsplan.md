@@ -9,12 +9,12 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |35| 27. Aug.        |  10:15 - 12:00 |Forelesning      | Introduksjon til faget | AM |
 |36| 31. Aug.        |  10:15 - 12:00 |Forelesning        |Forskningsprosessen | AM |
 |37| | ||||||
-|38| 17. Sept.        |  10:15 - 12:00 |Forelesning        |Forskningsprosessen| AM |
+|38| 17. Sept.        |  10:15 - 12:00 |Forelesning        |Data og personvern| AM |
 |39| 24. Sept.        |  09:15 - 12:00 |Forelesning          |Prosjekt: Ishavskraft og Remiks| AM, JW, ØØ |
 |40| 28. Sept.        |  10:15 - 12:00 |Forelesing         | AI|                            ML |
 |40| 02. Okt.        |  10:15 - 12:00 | Seminar       | Tema og bakgrunn (arbeidskrav)| AM|
-|41| 08. Okt.        |  10:15 - 12:00 | Forelesning        | Datakilder og personvern| AM|
-|42| 15. Okt.        |  12:15 - 14:00 | Forelesning | Struktur vitenskapelig artikel  | AM |
+|41| 08. Okt.        |  10:15 - 12:00 | Forelesning        | Struktur vitenskapelig artikkel| AM|
+|42| 15. Okt.        |  12:15 - 14:00 | Forelesning | TBA  | AM |
 |43| 19. Okt          | 12:15-14:00| Seminar| Peer-Review (arbeidskrav)  | AM |
 |44| 29. Okt.         |  10:15 - 12:00 |Seminar      |Forskningsspørsmål og data | AM |
 |45| 2. Nov.      |  10:15 - 12:15 |Forelesning |Formidling| AH  |
