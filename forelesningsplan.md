@@ -20,7 +20,7 @@ Planen er preliminær og kan oppdateres. For oppdatert timeplan, se [timeplan.ui
 |45| 2. Nov.      |  10:15 - 12:15 |Forelesning |Formidling| AH  |
 |46| | ||||||
 |47| | ||||||
-|48| 27. Nov.         |  08:15 - 12:00 |Seminar     | Presentasjon prosjekt (arbeidskrav)  | AM og EH|
+|48| 26. Nov.         |  08:15 - 12:00 |Seminar     | Presentasjon prosjekt (arbeidskrav)  | AM og EH|
 
 
 
