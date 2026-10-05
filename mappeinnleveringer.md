@@ -43,8 +43,9 @@ Formålet med arbeidskrav 2 er at dere skal få trening i å kritisk evaluere vi
 **Arbeidskrav 2 kan gjennomføres i grupper om 1 - 3 personer**
 
 I den skriftlige delen skal dere:
-- Lese to masteroppgaver (tildeles av lærer)
-- Evaluere masteroppgavene. Dere finner støtte til hvordan dere gjør dette [her](https://uit-sok-3024-h26.github.io/peerreview.html)
+- **Lese 2 masteroppgaver og evaluere disse etter en gitt mal**.
+ - Velg 2 masteroppgaven fra de masteroppgaver i samfunnsøkonomi som ble [innlevert våren 2026](https://nva.sikt.no/search?categoryShould=DegreeMaster&topLevelOrganization=https%3A%2F%2Fapi.nva.unit.no%2Fcristin%2Forganization%2F186.0.0.0&course=SOK-3901&results=10). (NB: noen masteroppgaver har ikke fulltekst tilgjengelig. Dere må velge masteroppgaver som har fulltekst tilgjengelig).
+ - Evaluer masteroppgavene ved bruk av [denne malen](https://uit-sok-3024-h26.github.io/peerreview.html). 
 
 Den muntlige delen av arbeidskravet består i å diskutere styrker og svakheter i masteroppgavene på et seminar.
 
