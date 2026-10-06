@@ -9,6 +9,7 @@ På denne siden vil vi laste opp forelesningsnotater og ressurser som vi tenker 
    * [Et veikart over forskningsprosessen](https://uit-sok-3024-h26.github.io/assets/F3_forskninsgprosessen_veikart.pdf)
 * [Forskningsprosessen - Del 2: Data](https://uit-sok-3024-h26.github.io/assets/F5_sok_3024_Datakilder_h26.pdf)
 * [AI - Marko Lukic](https://uit-sok-3024-h26.github.io/assets/SOK-3024_AI_28.09.pdf)
+*  [Strukturen til en vitenskapelig artikkel (og prosjektskisse)](https://uit-sok-3024-h26.github.io/assets/F6_struktur_artikkel_h26.pdf)
 
 ## Seminar
 * [Seminar 1 - Arbeidskrav 1](https://uit-sok-3024-h26.github.io/assets/Seminar_1_tematikk.pdf)
